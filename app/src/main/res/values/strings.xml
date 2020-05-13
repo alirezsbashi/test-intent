@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test Intent</string>
+    <string name="str_edt_main_data">The text you want to go to the next page</string>
+    <string name="str_btn_main_go">Send and go to next page</string>
+</resources>
